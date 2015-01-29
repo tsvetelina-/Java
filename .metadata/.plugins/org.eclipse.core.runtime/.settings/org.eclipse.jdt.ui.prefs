@@ -6,6 +6,10 @@ org.eclipse.jdt.ui.editor.tab.width=
 org.eclipse.jdt.ui.formatterprofiles.version=12
 org.eclipse.jdt.ui.javadoclocations.migrated=true
 org.eclipse.jface.textfont=1|Monospace|10.0|0|GTK|1|;
+<<<<<<< HEAD
+=======
+proposalOrderMigrated=true
+>>>>>>> f0bfd06f34f2d966b0bbc5fa1c864b0e4bcdb51b
 spelling_locale_initialized=true
 tabWidthPropagated=true
 useAnnotationsPrefPage=true
